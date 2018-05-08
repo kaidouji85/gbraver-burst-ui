@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg1449"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="battery-gauge.svg">
+  <defs
+     id="defs1443">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5640"
+       id="linearGradient4692-3"
+       x1="152"
+       y1="748.36218"
+       x2="348"
+       y2="748.36218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,-29.836807,25.970836)" />
+    <linearGradient
+       id="linearGradient5640"
+       inkscape:collect="always">
+      <stop
+         id="stop5642"
+         offset="0"
+         style="stop-color:#edff5b;stop-opacity:1" />
+      <stop
+         id="stop5644"
+         offset="1"
+         style="stop-color:#ffca01;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5640"
+       id="linearGradient4692-3-7"
+       x1="152"
+       y1="748.36218"
+       x2="348"
+       y2="748.36218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,-29.633333,36.554173)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="118.50952"
+     inkscape:cy="241.08217"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="723"
+     inkscape:window-x="66"
+     inkscape:window-y="2"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1994"
+       spacingx="2.1166666"
+       spacingy="2.1166666" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1446">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-161.53332)">
+    <g
+       style="display:inline;enable-background:new"
+       id="g5515"
+       transform="matrix(0.26458333,0,0,0.26458333,-42.85122,30.856327)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="rect4454-2-8"
+         d="M 308.34831,585.84706 H 412.3483 l 10,-10 h 100 l -32,26 H 292.34831 Z"
+         style="display:inline;opacity:1;fill:#b7c4c8;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="rect4454-53"
+         d="m 309.49266,589.84706 116.97309,-1e-5 16.13422,-16.13422 h 88.73821 l -32.26844,32.26844 -205.7113,10e-6 z"
+         style="display:inline;opacity:1;fill:#545454;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       style="display:inline;opacity:1;fill:url(#linearGradient4692-3);fill-opacity:1;stroke:#e6e6e6;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 11.438193,222.91666 h 51.85833 l -2.116666,2.11666 H 9.321526 Z"
+       id="rect4454-5-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="display:inline;enable-background:new"
+       id="g5808"
+       transform="matrix(0.26458333,0,0,0.26458333,-30.369726,52.680455)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         id="text4538-8-0-8-6-0"
+         y="626.33765"
+         x="406.21783"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'システムフォント';-inkscape-font-specification:'システムフォント';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#444814;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'ヒラギノ角ゴ Std';-inkscape-font-specification:'ヒラギノ角ゴ Std Ultra-Bold';fill:#e6e6e6;stroke:#444814;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="626.33765"
+           x="406.21783"
+           id="tspan4540-2-2-0-84-0"
+           sodipodi:role="line">バッテリー</tspan></text>
+      <text
+         id="text4538-8-01-7-3"
+         y="626.33765"
+         x="406.21783"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'システムフォント';-inkscape-font-specification:'システムフォント';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#c3cd4d;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'ヒラギノ角ゴ Std';-inkscape-font-specification:'ヒラギノ角ゴ Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:#c3cd4d;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="626.33765"
+           x="406.21783"
+           id="tspan4540-2-8-5-2"
+           sodipodi:role="line">バッテリー</tspan></text>
+      <text
+         id="text4538-8-1-8-6-2"
+         y="626.33765"
+         x="406.21783"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'システムフォント';-inkscape-font-specification:'システムフォント';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'ヒラギノ角ゴ Std';-inkscape-font-specification:'ヒラギノ角ゴ Std Ultra-Bold';fill:#e6e6e6"
+           y="626.33765"
+           x="406.21783"
+           id="tspan4540-2-4-6-15-3"
+           sodipodi:role="line">バッテリー</tspan></text>
+    </g>
+    <path
+       style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#896d07;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 19.493017,225.09546 1.956972,-2.1788"
+       id="path4363-33"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#896d07;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 29.934693,225.09546 1.956972,-2.1788"
+       id="path4363-33-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#896d07;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 40.37636,225.09546 1.956972,-2.1788"
+       id="path4363-33-8-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#000000;fill-rule:evenodd;stroke:#896d07;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 50.81803,225.06439 1.956972,-2.1788"
+       id="path4363-33-8-4-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="display:inline;enable-background:new"
+       id="g5855"
+       transform="matrix(0.26458333,0,0,0.26458333,-19.52181,-8.1075663)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         id="text4538-8-0-8-6-0-9"
+         y="695.11218"
+         x="199.64374"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'システムフォント';-inkscape-font-specification:'システムフォント';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#444814;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:'ヒラギノ角ゴ Std';-inkscape-font-specification:'ヒラギノ角ゴ Std Ultra-Bold';fill:#e6e6e6;stroke:#444814;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="695.11218"
+           x="199.64374"
+           id="tspan4540-2-2-0-84-0-9"
+           sodipodi:role="line">5</tspan></text>
+      <text
+         id="text4538-8-01-7-3-4"
+         y="695.11218"
+         x="199.64374"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'システムフォント';-inkscape-font-specification:'システムフォント';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#c3cd4d;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:'ヒラギノ角ゴ Std';-inkscape-font-specification:'ヒラギノ角ゴ Std Ultra-Bold';fill:#000000;fill-opacity:1;stroke:#c3cd4d;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="695.11218"
+           x="199.64374"
+           id="tspan4540-2-8-5-2-7"
+           sodipodi:role="line">5</tspan></text>
+      <text
+         id="text4538-8-1-8-6-2-4"
+         y="695.11218"
+         x="199.64374"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'システムフォント';-inkscape-font-specification:'システムフォント';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:'ヒラギノ角ゴ Std';-inkscape-font-specification:'ヒラギノ角ゴ Std Ultra-Bold';fill:#e6e6e6"
+           y="695.11218"
+           x="199.64374"
+           id="tspan4540-2-4-6-15-3-2"
+           sodipodi:role="line">5</tspan></text>
+    </g>
+    <path
+       style="display:inline;opacity:1;fill:url(#linearGradient4692-3-7);fill-opacity:1;stroke:#e6e6e6;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 11.641667,233.5 h 51.858331 l -2.116667,2.11666 H 9.5250004 Z"
+       id="rect4454-5-4-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="96.00016"
+       inkscape:export-ydpi="96.00016" />
+    <path
+       style="display:inline;opacity:1;fill:#6a6a1f;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 11.641667,241.96666 h 51.858331 l -2.116667,2.11666 H 9.5250004 Z"
+       id="rect4454-5-4-8-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-xdpi="96.000328"
+       inkscape:export-ydpi="96.000328" />
+  </g>
+</svg>
