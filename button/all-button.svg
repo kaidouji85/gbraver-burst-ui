@@ -747,15 +747,15 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter8912"
-       x="-0.022793342"
-       width="1.0455867"
-       y="-0.025341558"
-       height="1.0506831">
+       id="filter1086"
+       x="-0.034190013"
+       width="1.06838"
+       y="-0.038012338"
+       height="1.0760247">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.2512808"
-         id="feGaussianBlur8914" />
+         stdDeviation="0.3769212"
+         id="feGaussianBlur1088" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -766,8 +766,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="170.9339"
-     inkscape:cy="793.13262"
+     inkscape:cx="81.435163"
+     inkscape:cy="753.13262"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1077,18 +1077,27 @@
        x="7.4394684"
        y="80.197372"
        rx="1.4254056e-08"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/Users/yusuke/Desktop/burst-button.png"
+       inkscape:export-xdpi="648.59454"
+       inkscape:export-ydpi="648.59454" />
     <path
        style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#131313;stroke-width:1.58749998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 6.7263984,77.786979 -2.64583,2.645833 v 2.645833 26.458335 2.64583 l 2.64583,2.64583 h 2.6458313 26.4583363 2.645839 l 2.645831,-2.64583 V 109.53698 83.078645 80.432812 L 38.476405,77.786979 H 35.830566 9.3722397 Z m 2.6458313,2.645833 H 35.830566 l 2.645839,2.645833 v 26.458335 l -2.645839,2.64583 H 9.3722397 L 6.7263984,109.53698 V 83.078645 Z"
        id="rect1163-2-6-7-3"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/yusuke/Desktop/burst-button.png"
+       inkscape:export-xdpi="648.59454"
+       inkscape:export-ydpi="648.59454" />
     <path
        style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 6.7263984,77.786979 h 2.6458313 v 0 2.645833 l -2.6458313,2.645834 h -2.64583 v -2.645834 z"
        id="rect1163-2-1-7"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/Users/yusuke/Desktop/burst-button.png"
+       inkscape:export-xdpi="648.59454"
+       inkscape:export-ydpi="648.59454" />
     <rect
        style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.17078781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1163-3-27-3-9"
@@ -1097,13 +1106,19 @@
        x="9.3722382"
        y="77.78698"
        rx="1.2868249e-08"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/Users/yusuke/Desktop/burst-button.png"
+       inkscape:export-xdpi="648.59454"
+       inkscape:export-ydpi="648.59454" />
     <path
        style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 4.0805584,109.53699 2.64584,-1e-5 2.6458413,2.64583 v 2.64583 0 H 6.7263984 l -2.64583,-2.64583 z"
        id="rect1163-8-3-84-0"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/Users/yusuke/Desktop/burst-button.png"
+       inkscape:export-xdpi="648.59454"
+       inkscape:export-ydpi="648.59454" />
     <rect
        style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.17078781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1163-3-9-7-8-2"
@@ -1112,7 +1127,10 @@
        x="9.3722382"
        y="112.18283"
        rx="1.2868249e-08"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/Users/yusuke/Desktop/burst-button.png"
+       inkscape:export-xdpi="648.59454"
+       inkscape:export-ydpi="648.59454" />
     <rect
        style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.37417731;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1163-3-0-9-0-3"
@@ -1121,13 +1139,19 @@
        x="4.0805812"
        y="83.078651"
        rx="3.0883793e-08"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/Users/yusuke/Desktop/burst-button.png"
+       inkscape:export-xdpi="648.59454"
+       inkscape:export-ydpi="648.59454" />
     <path
        style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 35.830556,112.18281 2.645849,-2.64584 h 2.645831 v 2.64584 l -2.645831,2.64583 h -2.645849 v 0 z"
        id="rect1163-4-3-0-4-9"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/Users/yusuke/Desktop/burst-button.png"
+       inkscape:export-xdpi="648.59454"
+       inkscape:export-ydpi="648.59454" />
     <rect
        style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.37417731;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1163-3-0-5-2-6-9"
@@ -1136,50 +1160,19 @@
        x="38.476391"
        y="83.078651"
        rx="3.0883793e-08"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/Users/yusuke/Desktop/burst-button.png"
+       inkscape:export-xdpi="648.59454"
+       inkscape:export-ydpi="648.59454" />
     <path
        style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 35.830566,77.786976 2.645839,3e-6 2.645831,2.645833 v 2.645831 0 l -2.645831,3e-6 -2.645849,-2.645834 z"
        id="rect1163-4-3-2-3-0-7"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
-    <g
-       id="g2109"
-       transform="translate(-68.445107,15.464162)">
-      <text
-         id="text1481-5-4-9-2-3"
-         y="94.92585"
-         x="80.171432"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.04999924px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffe5bb;fill-opacity:1;stroke:#ab6900;stroke-width:1.58749998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.3499999px;font-family:'ヒラギノ角ゴ Pro';-inkscape-font-specification:'ヒラギノ角ゴ Pro Semi-Bold';fill:#bbffca;fill-opacity:1;stroke:#007a2a;stroke-width:1.58749998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           y="94.92585"
-           x="80.171432"
-           id="tspan1479-6-8-9-6-9"
-           sodipodi:role="line">バースト</tspan></text>
-      <text
-         id="text1481-3-6-5-9-8"
-         y="94.92585"
-         x="80.171432"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.04999924px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:#ffd42a;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.3499999px;font-family:'ヒラギノ角ゴ Pro';-inkscape-font-specification:'ヒラギノ角ゴ Pro Semi-Bold';fill:#ff0000;fill-opacity:1;stroke:#3eff50;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           y="94.92585"
-           x="80.171432"
-           id="tspan1479-9-5-8-4-6"
-           sodipodi:role="line">バースト</tspan></text>
-      <text
-         id="text1481-3-6-1-5"
-         y="94.92585"
-         x="80.171432"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.04999924px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#feffdb;fill-opacity:1;stroke:#111111;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.3499999px;font-family:'ヒラギノ角ゴ Pro';-inkscape-font-specification:'ヒラギノ角ゴ Pro Semi-Bold';fill:#dcffdb;fill-opacity:1;stroke:#111111;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           y="94.92585"
-           x="80.171432"
-           id="tspan1479-9-5-3-7"
-           sodipodi:role="line">バースト</tspan></text>
-    </g>
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/Users/yusuke/Desktop/burst-button.png"
+       inkscape:export-xdpi="648.59454"
+       inkscape:export-ydpi="648.59454" />
     <path
        style="opacity:1;vector-effect:none;fill:url(#linearGradient1294-9-5-3);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23534663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 58.208338,58.875061 -2.645834,2.645834 v 7.937499 l 2.645834,2.645834 h 89.958322 l 2.64584,-2.645834 v -7.937499 l -2.64584,-2.645834 z"
@@ -1615,11 +1608,14 @@
       </g>
     </g>
     <g
-       id="g8924"
-       transform="matrix(0.83328874,0,0,0.83328874,-40.323542,-26.649609)">
+       id="g1098"
+       transform="translate(-50.138542,-19.579166)"
+       inkscape:export-filename="/Users/yusuke/Desktop/burst-button.png"
+       inkscape:export-xdpi="648.59454"
+       inkscape:export-ydpi="648.59454">
       <g
-         style="fill:#25a035;fill-opacity:1;stroke:none;stroke-width:0.67993778;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.43636367;filter:url(#filter8912)"
-         transform="matrix(1.4342173,0,0,1.4342173,-11.739561,70.814463)"
+         style="fill:#25a035;fill-opacity:1;stroke:none;stroke-width:0.67993778;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.43636367;filter:url(#filter1086)"
+         transform="matrix(1.4173318,0,0,1.4173318,-13.622427,43.990594)"
          id="g1117-2-7">
         <path
            style="fill:#25a035;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.67993778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.43636367"
@@ -1630,7 +1626,7 @@
       </g>
       <g
          style="fill:url(#linearGradient1088);fill-opacity:1;stroke:none;stroke-width:0.67993778;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="matrix(1.1673862,0,0,1.1673862,4.3376671,86.152151)"
+         transform="matrix(0.97276978,0,0,0.97276978,13.297237,69.481675)"
          id="g1117-2">
         <path
            style="fill:url(#linearGradient1086);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.67993778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1641,7 +1637,7 @@
       </g>
       <g
          style="opacity:1;fill:url(#linearGradient1110);fill-opacity:1;stroke:none;stroke-width:1.12595081;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="matrix(0.7051818,0,0,0.7051818,32.200992,112.50941)"
+         transform="matrix(0.58762005,0,0,0.58762005,36.515432,91.444882)"
          id="g1117-8-8">
         <path
            style="fill:url(#linearGradient1112);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.12595081;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1652,7 +1648,7 @@
       </g>
       <g
          style="opacity:1;fill:url(#linearGradient1110-9);fill-opacity:1;stroke:none;stroke-width:1.12595081;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="matrix(0.36358533,0,0,0.36358533,53.233134,132.2928)"
+         transform="matrix(0.30297156,0,0,0.30297156,54.041279,107.93016)"
          id="g1117-8-8-3">
         <path
            style="fill:url(#linearGradient8834);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.12595081;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1661,6 +1657,46 @@
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccccccccc" />
       </g>
+    </g>
+    <g
+       id="g2109"
+       transform="translate(-68.445107,15.464162)"
+       inkscape:export-filename="/Users/yusuke/Desktop/burst-button.png"
+       inkscape:export-xdpi="648.59454"
+       inkscape:export-ydpi="648.59454">
+      <text
+         id="text1481-5-4-9-2-3"
+         y="94.92585"
+         x="80.171432"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.04999924px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffe5bb;fill-opacity:1;stroke:#ab6900;stroke-width:1.58749998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.3499999px;font-family:'ヒラギノ角ゴ Pro';-inkscape-font-specification:'ヒラギノ角ゴ Pro Semi-Bold';fill:#bbffca;fill-opacity:1;stroke:#007a2a;stroke-width:1.58749998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="94.92585"
+           x="80.171432"
+           id="tspan1479-6-8-9-6-9"
+           sodipodi:role="line">バースト</tspan></text>
+      <text
+         id="text1481-3-6-5-9-8"
+         y="94.92585"
+         x="80.171432"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.04999924px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:#ffd42a;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.3499999px;font-family:'ヒラギノ角ゴ Pro';-inkscape-font-specification:'ヒラギノ角ゴ Pro Semi-Bold';fill:#ff0000;fill-opacity:1;stroke:#3eff50;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="94.92585"
+           x="80.171432"
+           id="tspan1479-9-5-8-4-6"
+           sodipodi:role="line">バースト</tspan></text>
+      <text
+         id="text1481-3-6-1-5"
+         y="94.92585"
+         x="80.171432"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.04999924px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#feffdb;fill-opacity:1;stroke:#111111;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.3499999px;font-family:'ヒラギノ角ゴ Pro';-inkscape-font-specification:'ヒラギノ角ゴ Pro Semi-Bold';fill:#dcffdb;fill-opacity:1;stroke:#111111;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="94.92585"
+           x="80.171432"
+           id="tspan1479-9-5-3-7"
+           sodipodi:role="line">バースト</tspan></text>
     </g>
   </g>
 </svg>
