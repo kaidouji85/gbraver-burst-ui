@@ -760,28 +760,41 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter2561"
-       x="-0.10043077"
-       width="1.2008615"
-       y="-0.32639995"
-       height="1.6527999">
+       id="filter1646"
+       x="-0.1236"
+       width="1.2472"
+       y="-0.1236"
+       height="1.2472">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="1.4393333"
-         id="feGaussianBlur2563" />
+         stdDeviation="1.9076459"
+         id="feGaussianBlur1648" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter2561-7"
-       x="-0.10043077"
-       width="1.2008615"
-       y="-0.32639995"
-       height="1.6527998">
+       id="filter1646-7"
+       x="-0.1236"
+       width="1.2472"
+       y="-0.1236"
+       height="1.2472">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="1.4393333"
-         id="feGaussianBlur2563-9" />
+         stdDeviation="1.9076459"
+         id="feGaussianBlur1648-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1244"
+       x="-0.07105263"
+       width="1.1421053"
+       y="-0.38571434"
+       height="1.7714287">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.9765622"
+         id="feGaussianBlur1246" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -791,9 +804,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="136.05444"
-     inkscape:cy="884.37017"
+     inkscape:zoom="0.5"
+     inkscape:cx="579.45603"
+     inkscape:cy="983.36512"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -802,7 +815,7 @@
      inkscape:snap-bbox="true"
      inkscape:window-width="1366"
      inkscape:window-height="723"
-     inkscape:window-x="-37"
+     inkscape:window-x="12"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="true">
@@ -834,14 +847,21 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-26.066725)">
-    <rect
-       style="opacity:1;vector-effect:none;fill:#474747;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.58749998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter2561)"
-       id="rect1807"
-       width="34.395832"
-       height="10.583335"
-       x="15.875"
-       y="62.05006"
-       rx="3.0883754e-08"
+    <path
+       style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1244)"
+       d="m 82.020829,37.708382 -2.64583,2.64583 v 2.64583 7.937499 2.64584 l 2.64583,2.64583 h 2.64584 89.958331 2.64583 l 2.64583,-2.64583 v -2.64584 -7.937499 -2.64583 l -2.64583,-2.64583 H 174.625 84.666669 Z"
+       id="rect1163-2-1-8-4-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/yusuke/Desktop/test.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.58749998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1646)"
+       d="m 16.933328,35.591725 -2.645832,2.64583 v 2.64584 26.458325 2.64584 l 2.645832,2.64583 h 2.645831 26.458344 2.64584 l 2.64583,-2.64583 v -2.64584 -26.458325 -2.64584 l -2.64583,-2.64583 h -2.64584 -26.458334 z"
+       id="rect1163-2-6-7-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccc"
        inkscape:export-filename="/Users/yusuke/Desktop/button-shadow.png"
        inkscape:export-xdpi="673.31"
        inkscape:export-ydpi="673.31" />
@@ -1751,14 +1771,12 @@
              style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.3499999px;font-family:'ヒラギノ角ゴ Pro';-inkscape-font-specification:'ヒラギノ角ゴ Pro Semi-Bold';fill:#dcffdb;fill-opacity:1;stroke:#111111;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">バースト</tspan></text>
       </g>
     </g>
-    <rect
-       style="opacity:1;vector-effect:none;fill:#474747;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.58749998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter2561-7)"
-       id="rect1807-3"
-       width="34.395832"
-       height="10.583335"
-       x="76.729164"
-       y="111.79173"
-       rx="3.0883754e-08"
+    <path
+       style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.58749998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1646-7)"
+       d="m 71.437486,98.562558 -2.645832,2.645832 v 2.64584 26.45832 2.64584 l 2.645832,2.64583 h 2.645831 26.458343 2.64584 l 2.64583,-2.64583 v -2.64584 -26.45832 -2.64584 l -2.64583,-2.645832 h -2.64584 -26.458333 z"
+       id="rect1163-2-6-7-7-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccc"
        inkscape:export-filename="/Users/yusuke/Desktop/button-shadow.png"
        inkscape:export-xdpi="673.31"
        inkscape:export-ydpi="673.31" />

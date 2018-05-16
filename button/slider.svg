@@ -41,6 +41,19 @@
          offset="1"
          style="stop-color:#ff9f04;stop-opacity:1" />
     </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1244"
+       x="-0.071052633"
+       width="1.1421053"
+       y="-0.38571435"
+       height="1.7714287">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.9765622"
+         id="feGaussianBlur1246" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -50,7 +63,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="413.22615"
+     inkscape:cx="-443.3832"
      inkscape:cy="548.51371"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -58,8 +71,8 @@
      units="px"
      inkscape:window-width="1366"
      inkscape:window-height="723"
-     inkscape:window-x="-28"
-     inkscape:window-y="0"
+     inkscape:window-x="52"
+     inkscape:window-y="6"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -75,7 +88,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -169,5 +182,14 @@
          d="m 182.56249,58.875059 2.64584,3e-6 2.64583,2.645833 v 2.645831 0 l -2.64583,3e-6 -2.64585,-2.645834 z"
          style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
+    <path
+       style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1244)"
+       d="m 21.16666,130.31255 -2.64583,2.64583 v 2.64583 7.9375 2.64584 l 2.64583,2.64583 h 2.64584 89.95833 2.64583 l 2.64583,-2.64583 v -2.64584 -7.9375 -2.64583 l -2.64583,-2.64583 H 113.77083 23.8125 Z"
+       id="rect1163-2-1-8-4-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/yusuke/Desktop/slider-shadow.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       sodipodi:nodetypes="ccccccccccccccccc" />
   </g>
 </svg>
