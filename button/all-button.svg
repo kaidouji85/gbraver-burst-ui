@@ -95,7 +95,7 @@
        inkscape:collect="always"
        xlink:href="#pattern3561"
        id="pattern1824"
-       patternTransform="matrix(0.13432402,-0.13432402,0.13432402,0.13432402,36.309251,10.743158)" />
+       patternTransform="matrix(0.13432402,-0.13432402,0.13432402,0.13432402,50.270838,66.812594)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern3561"
@@ -578,28 +578,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1436"
-       id="linearGradient5891"
-       x1="324.84586"
-       y1="708.82288"
-       x2="325.33838"
-       y2="688.31677"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-212.42473,18.385015)" />
-    <linearGradient
-       id="linearGradient1436"
-       inkscape:collect="always">
-      <stop
-         id="stop1432"
-         offset="0"
-         style="stop-color:#d2d2d2;stop-opacity:0.7647059" />
-      <stop
-         id="stop1434"
-         offset="1"
-         style="stop-color:#d2d2d2;stop-opacity:0.37254903" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient1292"
        id="linearGradient1294-9-5-2-7-7"
        x1="66.145828"
@@ -607,7 +585,7 @@
        x2="66.145828"
        y2="109.1459"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.46153839,0,0,1.7142859,-10.094594,14.135846)" />
+       gradientTransform="matrix(0.46153839,0,0,1.7142859,3.8669929,70.205275)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="160"
@@ -804,18 +782,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="579.45603"
-     inkscape:cy="983.36512"
+     inkscape:zoom="1"
+     inkscape:cx="138.58363"
+     inkscape:cy="184.85101"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1462"
      showgrid="true"
      units="px"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
      inkscape:window-width="1366"
      inkscape:window-height="723"
-     inkscape:window-x="12"
+     inkscape:window-x="13"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="true">
@@ -1221,124 +1199,137 @@
        x="211.66667"
        y="32.416729"
        id="rect3569" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient1294-9-5-2-7-7);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23534663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1163-3-2-0-4-7-2-8"
+       width="31.749994"
+       height="31.750002"
+       x="18.520842"
+       y="225.56258"
+       rx="1.4254056e-08"
+       ry="0"
+       inkscape:export-filename="/Users/yusuke/Desktop/ok-button.png"
+       inkscape:export-xdpi="673.32001"
+       inkscape:export-ydpi="673.32001" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#020202;stroke-width:1.58749998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 18.520839,222.91674 -2.645834,2.64584 v 5.29166 21.16667 5.29167 l 2.645834,2.64583 h 5.291666 23.8125 2.645833 l 2.645833,-2.64583 v -5.29167 -23.8125 -2.64583 l -2.645833,-2.64584 H 44.979171 23.812505 Z m 5.291666,5.29167 h 21.166666 l 2.645834,2.64583 v 21.16667 l -2.645834,2.64583 H 23.812505 l -2.645833,-2.64583 v -21.16667 z"
+       id="rect1163-2-1-7-9-2-3-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/yusuke/Desktop/ok-button.png"
+       inkscape:export-xdpi="673.32001"
+       inkscape:export-ydpi="673.32001" />
+    <path
+       style="opacity:1;vector-effect:none;fill:url(#pattern1824);fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 18.520839,222.91674 -2.645834,2.64584 v 5.29166 21.16667 5.29167 l 2.645834,2.64583 h 5.291666 23.8125 2.645833 l 2.645833,-2.64583 v -5.29167 -23.8125 -2.64583 l -2.645833,-2.64584 H 44.979172 23.812505 Z m 5.291666,5.29167 h 21.166667 l 2.645833,2.64583 v 21.16667 l -2.645833,2.64583 H 23.812505 l -2.645833,-2.64583 v -21.16667 z"
+       id="rect1163-2-1-7-9-2-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/yusuke/Desktop/ok-button.png"
+       inkscape:export-xdpi="673.32001"
+       inkscape:export-ydpi="673.32001" />
     <g
-       id="g1923"
-       transform="translate(11.315749,71.944412)"
+       id="g1891"
+       transform="translate(13.229167,55.562518)"
+       inkscape:export-filename="/Users/yusuke/Desktop/ok-button.png"
+       inkscape:export-xdpi="673.32001"
+       inkscape:export-ydpi="673.32001">
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect1163-2-1-7-9-2"
+         d="m 5.2916666,167.35423 h 5.2916664 v 0 5.29166 l -2.6458331,2.64584 H 2.6458333 l 3.3e-6,-5.29167 z"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         ry="0"
+         rx="1.2868249e-08"
+         y="167.35423"
+         x="10.583333"
+         height="5.2916627"
+         width="21.166666"
+         id="rect1163-3-27-3-9-9-7"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect1163-8-3-84-0-7-3"
+         d="m 2.6458333,196.45839 h 5.2916666 l 2.6458331,2.64584 v 5.29166 0 l -5.2916664,-1e-5 -2.64583,-2.64582 z"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         ry="0"
+         rx="1.2868249e-08"
+         y="199.10423"
+         x="10.583333"
+         height="5.2916598"
+         width="21.166666"
+         id="rect1163-3-9-7-8-2-0-7"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         ry="3.9511069e-06"
+         rx="3.0883793e-08"
+         y="175.29173"
+         x="2.6458333"
+         height="21.166647"
+         width="5.2916665"
+         id="rect1163-3-0-9-0-3-3-9"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect1163-4-3-0-4-9-9-0"
+         d="m 31.75,199.10423 2.645833,-2.64584 h 5.291666 l 9e-6,5.29167 -2.64583,2.64582 h -2.645852 l -2.645826,1e-5 z"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         ry="0"
+         rx="3.0883793e-08"
+         y="175.29173"
+         x="34.395832"
+         height="21.166647"
+         width="5.291667"
+         id="rect1163-3-0-5-2-6-9-8-2"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect1163-4-3-2-3-0-7-6-3"
+         d="m 31.75,167.35423 h 5.291678 l 2.64583,2.64583 v 2.64583 l -8e-6,2.64584 H 34.395833 L 31.75,172.64589 Z"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g1089"
+       transform="matrix(1.4214833,0,0,1.4214833,-92.680012,65.747227)"
        inkscape:export-filename="/Users/yusuke/Desktop/ok-button.png"
        inkscape:export-xdpi="673.31"
        inkscape:export-ydpi="673.31">
-      <rect
-         ry="0"
-         rx="1.4254056e-08"
-         y="169.49315"
-         x="4.5592542"
-         height="31.750002"
-         width="31.749994"
-         id="rect1163-3-2-0-4-7-2-8"
-         style="opacity:1;vector-effect:none;fill:url(#linearGradient1294-9-5-2-7-7);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23534663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="rect1163-2-1-7-9-2-3-0"
-         d="m 4.559252,166.84731 -2.645834,2.64584 v 5.29166 21.16667 5.29167 l 2.645834,2.64583 h 5.2916664 23.8124996 2.645833 l 2.645833,-2.64583 v -5.29167 -23.8125 -2.64583 l -2.645833,-2.64584 H 31.017584 9.8509184 Z m 5.2916664,5.29167 H 31.017584 l 2.645834,2.64583 v 21.16667 l -2.645834,2.64583 H 9.8509184 L 7.205085,195.95148 v -21.16667 z"
-         style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#020202;stroke-width:1.58749998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="rect1163-2-1-7-9-2-3"
-         d="m 4.5592517,166.84731 -2.6458336,2.64584 v 5.29166 21.16667 5.29167 l 2.6458336,2.64583 h 5.2916666 23.8124997 2.645833 l 2.645833,-2.64583 v -5.29167 -23.8125 -2.64583 l -2.645833,-2.64584 H 31.017585 9.8509183 Z m 5.2916666,5.29167 H 31.017585 l 2.645833,2.64583 v 21.16667 l -2.645833,2.64583 H 9.8509183 l -2.6458336,-2.64583 v -21.16667 z"
-         style="opacity:1;vector-effect:none;fill:url(#pattern1824);fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
-         transform="translate(-0.73241944,-0.50691394)"
-         id="g1891">
-        <path
-           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 5.2916666,167.35423 h 5.2916664 v 0 5.29166 l -2.6458331,2.64584 H 2.6458333 l 3.3e-6,-5.29167 z"
-           id="rect1163-2-1-7-9-2"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccccc" />
-        <rect
-           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect1163-3-27-3-9-9-7"
-           width="21.166666"
-           height="5.2916627"
-           x="10.583333"
-           y="167.35423"
-           rx="1.2868249e-08"
-           ry="0" />
-        <path
-           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 2.6458333,196.45839 h 5.2916666 l 2.6458331,2.64584 v 5.29166 0 l -5.2916664,-1e-5 -2.64583,-2.64582 z"
-           id="rect1163-8-3-84-0-7-3"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccccc" />
-        <rect
-           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect1163-3-9-7-8-2-0-7"
-           width="21.166666"
-           height="5.2916598"
-           x="10.583333"
-           y="199.10423"
-           rx="1.2868249e-08"
-           ry="0" />
-        <rect
-           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect1163-3-0-9-0-3-3-9"
-           width="5.2916665"
-           height="21.166647"
-           x="2.6458333"
-           y="175.29173"
-           rx="3.0883793e-08"
-           ry="3.9511069e-06" />
-        <path
-           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 31.75,199.10423 2.645833,-2.64584 h 5.291666 l 9e-6,5.29167 -2.64583,2.64582 h -2.645852 l -2.645826,1e-5 z"
-           id="rect1163-4-3-0-4-9-9-0"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccccc" />
-        <rect
-           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect1163-3-0-5-2-6-9-8-2"
-           width="5.291667"
-           height="21.166647"
-           x="34.395832"
-           y="175.29173"
-           rx="3.0883793e-08"
-           ry="0" />
-        <path
-           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#909090;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 31.75,167.35423 h 5.291678 l 2.64583,2.64583 v 2.64583 l -8e-6,2.64584 H 34.395833 L 31.75,172.64589 Z"
-           id="rect1163-4-3-2-3-0-7-6-3"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccccc" />
-      </g>
-      <g
-         inkscape:export-ydpi="673.31"
-         inkscape:export-xdpi="673.31"
-         inkscape:export-filename="/Users/yusuke/Desktop/ok-button.png"
-         transform="matrix(1.4214833,0,0,1.4214833,-150.09204,-14.686106)"
-         id="g1089">
-        <circle
-           style="display:inline;opacity:1;fill:#b7c4c8;fill-opacity:1;stroke:#000000;stroke-width:0.15231583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-           id="path4559-0-3-6"
-           cx="119.96362"
-           cy="140.73627"
-           r="7.9235911"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90" />
+         transform="matrix(0.26458333,0,0,0.26458333,121.55185,-47.575045)"
+         id="g1462">
         <g
-           id="g1462"
-           transform="matrix(0.26458333,0,0,0.26458333,104.51041,-41.995225)">
+           id="g3360"
+           transform="translate(-105.52258,-11.044271)"
+           inkscape:export-filename="/Users/yusuke/Desktop/ok-button.png"
+           inkscape:export-xdpi="673.32001"
+           inkscape:export-ydpi="673.32001">
+          <circle
+             style="display:inline;opacity:1;fill:#b7c4c8;fill-opacity:1;stroke:#000000;stroke-width:0.15231583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+             id="path4559-0-3-6"
+             cx="117.31617"
+             cy="126.51862"
+             r="7.9235911"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90"
+             transform="matrix(3.7795276,0,0,3.7795276,-459.40857,179.8112)" />
           <circle
              inkscape:export-ydpi="90"
              inkscape:export-xdpi="90"
              r="26.010399"
-             cy="690.63873"
-             cx="58.405849"
+             cy="657.99182"
+             cx="-16.008856"
              id="path4559-0-3"
              style="display:inline;opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           <g
              inkscape:export-ydpi="90"
              inkscape:export-xdpi="90"
-             transform="translate(-373.59415,11.27655)"
+             transform="translate(-448.00886,-21.370381)"
              id="g4647-8"
              style="display:inline;fill:none;stroke:#000000;stroke-opacity:1">
             <circle
@@ -1355,7 +1346,7 @@
                r="19.999985" />
           </g>
           <g
-             transform="translate(-54.084774,-34.11792)"
+             transform="translate(-128.49948,-66.764851)"
              id="g1447">
             <circle
                style="display:inline;opacity:1;fill:url(#radialGradient5804);fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1369,54 +1360,49 @@
                cx="112.49062"
                cy="724.75665"
                r="19.999985" />
-            <path
-               style="display:inline;opacity:1;fill:url(#linearGradient5891);fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m 112.49159,706.67745 a 19.999985,19.999985 0 0 0 -17.041019,9.57813 19.999985,19.999985 0 0 0 17.041019,9.5625 19.999985,19.999985 0 0 0 17.03907,-9.57813 19.999985,19.999985 0 0 0 -17.03907,-9.5625 z"
-               id="path4559-9"
-               inkscape:connector-curvature="0" />
           </g>
         </g>
       </g>
-      <g
-         inkscape:export-ydpi="673.31"
-         inkscape:export-xdpi="673.31"
-         inkscape:export-filename="/Users/yusuke/Desktop/ok-button.png"
-         transform="translate(-36.520288,-21.149949)"
-         id="g2032">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.04999924px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffe5bb;fill-opacity:1;stroke:#991a0a;stroke-width:1.58749998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="44.50219"
+    </g>
+    <g
+       id="g2032"
+       transform="translate(59.726711,-11.118037)"
+       inkscape:export-filename="/Users/yusuke/Desktop/ok-button.png"
+       inkscape:export-xdpi="673.31"
+       inkscape:export-ydpi="673.31">
+      <text
+         id="text1481-5-4-9-2-3-0-9"
+         y="217.91737"
+         x="44.50219"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.04999924px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffe5bb;fill-opacity:1;stroke:#991a0a;stroke-width:1.58749998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.3499999px;font-family:'ヒラギノ角ゴ Pro';-inkscape-font-specification:'ヒラギノ角ゴ Pro Semi-Bold';fill:#99e0ff;fill-opacity:1;stroke:#991a0a;stroke-width:1.58749998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            y="217.91737"
-           id="text1481-5-4-9-2-3-0-9"><tspan
-             sodipodi:role="line"
-             id="tspan1479-6-8-9-6-9-2-3"
-             x="44.50219"
-             y="217.91737"
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.3499999px;font-family:'ヒラギノ角ゴ Pro';-inkscape-font-specification:'ヒラギノ角ゴ Pro Semi-Bold';fill:#99e0ff;fill-opacity:1;stroke:#991a0a;stroke-width:1.58749998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">ケッテイ</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.04999924px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:#e63737;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="44.50219"
+           id="tspan1479-6-8-9-6-9-2-3"
+           sodipodi:role="line">ケッテイ</tspan></text>
+      <text
+         id="text1481-3-6-5-9-8-4-8"
+         y="217.91737"
+         x="44.50219"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.04999924px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:#e63737;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.3499999px;font-family:'ヒラギノ角ゴ Pro';-inkscape-font-specification:'ヒラギノ角ゴ Pro Semi-Bold';fill:#ff0000;fill-opacity:1;stroke:#e63737;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            y="217.91737"
-           id="text1481-3-6-5-9-8-4-8"><tspan
-             sodipodi:role="line"
-             id="tspan1479-9-5-8-4-6-8-0"
-             x="44.50219"
-             y="217.91737"
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.3499999px;font-family:'ヒラギノ角ゴ Pro';-inkscape-font-specification:'ヒラギノ角ゴ Pro Semi-Bold';fill:#ff0000;fill-opacity:1;stroke:#e63737;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">ケッテイ</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.04999924px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f48f8f;fill-opacity:1;stroke:#111111;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            x="44.50219"
+           id="tspan1479-9-5-8-4-6-8-0"
+           sodipodi:role="line">ケッテイ</tspan></text>
+      <text
+         id="text1481-3-6-1-5-3-2"
+         y="217.91737"
+         x="44.50219"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.04999924px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f48f8f;fill-opacity:1;stroke:#111111;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.3499999px;font-family:'ヒラギノ角ゴ Pro';-inkscape-font-specification:'ヒラギノ角ゴ Pro Semi-Bold';fill:#fbe1e1;fill-opacity:1;stroke:#e63737;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            y="217.91737"
-           id="text1481-3-6-1-5-3-2"><tspan
-             sodipodi:role="line"
-             id="tspan1479-9-5-3-7-9-4"
-             x="44.50219"
-             y="217.91737"
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.3499999px;font-family:'ヒラギノ角ゴ Pro';-inkscape-font-specification:'ヒラギノ角ゴ Pro Semi-Bold';fill:#fbe1e1;fill-opacity:1;stroke:#e63737;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">ケッテイ</tspan></text>
-      </g>
+           x="44.50219"
+           id="tspan1479-9-5-3-7-9-4"
+           sodipodi:role="line">ケッテイ</tspan></text>
     </g>
     <g
        id="g1805"
